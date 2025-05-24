@@ -1,5 +1,8 @@
 {
   "name": "question-two",
+
+  "name": "questionone",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
